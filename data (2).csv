@@ -1,0 +1,6 @@
+"DR_NO","Date Rptd","DATE OCC","TIME OCC","AREA NAME","Crm Cd Desc","Vict Age","Vict Sex","Vict Descent","Weapon Desc","Status Desc","LOCATION"
+221412410,"2022-06-15T00:00:00.000","2020-11-12T00:00:00.000","1700","Pacific","THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)",0,null,null,null,"Invest Cont","13600    MARINA POINT                 DR"
+220314085,"2022-07-22T00:00:00.000","2020-05-12T00:00:00.000","1110","Southwest","THEFT OF IDENTITY",27,"F","B",null,"Invest Cont","2500 S  SYCAMORE                     AV"
+222013040,"2022-08-06T00:00:00.000","2020-06-04T00:00:00.000","1620","Olympic","THEFT OF IDENTITY",60,"M","H",null,"Invest Cont","3300    SAN MARINO                   ST"
+220614831,"2022-08-18T00:00:00.000","2020-08-17T00:00:00.000","1200","Hollywood","THEFT OF IDENTITY",28,"M","H",null,"Invest Cont","1900    TRANSIENT"
+231207725,"2023-02-27T00:00:00.000","2020-01-27T00:00:00.000","0635","77th Street","THEFT OF IDENTITY",37,"M","H",null,"Invest Cont","6200    4TH                          AV"
